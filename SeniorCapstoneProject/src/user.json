@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Blane Brown",
+        "username": "blane.brown",
+        "password": "password",
+        "registered": [
+            "2",
+            "3"
+        ],
+        "favorites": [
+            "1",
+            "8"
+        ]
+    }
+]

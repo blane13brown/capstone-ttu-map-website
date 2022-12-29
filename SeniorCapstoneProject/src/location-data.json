@@ -1,0 +1,200 @@
+[
+    {
+        "id": "1",
+        "name": "Carpenter/Wells Complex",
+        "lat": "33.586193",
+        "lng": "-101.880062",
+        "abbrev": "",
+        "description": "The Carpenter/Wells Complex features 3 and 4 bedroom suite-style residences for men and women of sophomore classification or higher. The complex is open year round for the convenience of residents. Students share a suite with students of the same gender.",
+        "category": "residence",
+        "image": "src/components/images/carpwells.jpg",
+        "visible": true
+    },
+    {
+        "id": "2",
+        "name": "Chemical Engineering",
+        "lat": "33.587519",
+        "lng": "-101.876233",
+        "abbrev": "CHEME",
+        "description": "The building houses the Department Chemical Engineering classrooms, research labs and administrative offices.",
+        "category": "lecture",
+        "image": "src/components/images/cheme.jpg",
+        "visible": true
+    },
+    {
+        "id": "3",
+        "name": "Chemistry",
+        "lat": "33.58380004758243",
+        "lng": "-101.876250921728",
+        "abbrev": "CHEM",
+        "description": "The building is home to the Department of Chemistry and Biochemistry classrooms, research labs and administrative offices.",
+        "category": "lecture",
+        "image": "src/components/images/chem.jpg",
+        "visible": true
+    },
+    {
+        "id": "4",
+        "name": "The Fresh Plate",
+        "lat": "33.586728",
+        "lng": "-101.871903",
+        "abbrev": "",
+        "description": "Dining location in Gordon Hall, serves breakfast, lunch and dinner.",
+        "category": "dining",
+        "image": "src/components/images/gordon.jpg",
+        "visible": true
+    },
+    {
+        "id": "5",
+        "name": "Sneed Hall",
+        "lat": "33.58527067646357",
+        "lng": "-101.87139711766658",
+        "abbrev": "",
+        "description": "Sneed Hall is a residence hall for men. It is home to the Engineering Success and Men of STEM Learning Communities.",
+        "category": "residence",
+        "image": "src/components/images/sneed.jpg",
+        "visible": true
+    },
+    {
+        "id": "6",
+        "name": "Talkington Hall",
+        "lat": "33.57871178554547",
+        "lng": "-101.87467071128349",
+        "abbrev": "",
+        "description": "Talkington Hall offers 2 and 4 bedroom suite-style residences for men and women of any classification. Students share a suite with students of the same gender.",
+        "category": "residence",
+        "image": "src/components/images/talkington.jpg",
+        "visible": true
+    },
+    {
+        "id": "7",
+        "name": "The Commons",
+        "lat": "33.579578813811715",
+        "lng": "-101.87408062530874",
+        "abbrev": "",
+        "description": "The Commons brings cutting-edge dining to the Texas Tech community. A 20,500 square foot, two-story, stand-alone dining facility, The Commons features various food outlets, including Einstein Bros® Bagels, Khan's Mongolian Grill and others.",
+        "category": "dining",
+        "image": "src/components/images/commons.jpg",
+        "visible": true
+    },
+    {
+        "id": "8",
+        "name": "Student Union Building",
+        "lat": "33.581461424442246",
+        "lng": "-101.87472713078766",
+        "abbrev": "SUB",
+        "description": "The Student Union Building houses a food court, Barnes & Noble Bookstore, Starbucks, the Allen Theatre, Student Government Association and work space for many of the more than 400 student organizations.",
+        "category": "dining",
+        "image": "src/components/images/sub.jpg",
+        "visible": true
+    },
+    {
+        "id": "9",
+        "name": "Agricultural Education",
+        "lat": "33.58267069485774",
+        "lng": "-101.87727275962348",
+        "abbrev": "AGED",
+        "description": "The building houses the Department of Agricultural Education and Communications which offers undergraduate and graduate degrees.",
+        "category": "lecture",
+        "image": "src/components/images/aged.jpg",
+        "visible": true
+    },
+    {
+        "id": "10",
+        "name": "Holden Hall",
+        "lat": "33.58557625195671",
+        "lng": "-101.87373197681848",
+        "abbrev": "HOLDEN",
+        "description": "Holden Hall houses the College of Arts and Sciences administrative offices and classrooms. The original building features a 1,300 square-foot fresco mural by renowned painter Peter Hurd.",
+        "category": "lecture",
+        "image": "src/components/images/holden.jpg",
+        "visible": true
+    },
+    {
+        "id": "11",
+        "name": "English & Philosophy",
+        "lat": "33.58159783254917",
+        "lng": "-101.8792863359158",
+        "abbrev": "ENGPHL",
+        "description": "The English/Philosophy building opened in 2002. The building faces the Education building across a large courtyard. The two buildings mirror each other in architectural design.",
+        "category": "lecture",
+        "image": "src/components/images/engphl.jpg",
+        "visible": true
+    },
+    {
+        "id": "12",
+        "name": "Campus Entry Station Broadway",
+        "lat": "33.58448873387527",
+        "lng": "-101.87260430365414",
+        "abbrev": "",
+        "description": "Eastern campus entry station. Entering campus by car is prohibited between the hours of 7:30am - 5:30pm on weekdays. Visitor information and passes are available.",
+        "category": "pin_r",
+        "image": "",
+        "visible": true
+    },
+    {
+        "id": "13",
+        "name": "Campus Entry Station Akron Ave. North",
+        "lat": "33.587209865948154",
+        "lng": "-101.87256405752488",
+        "abbrev": "",
+        "description": "North eastern campus entry station. Entering campus by car is prohibited between the hours of 7:30am - 5:30pm on weekdays. Visitor information and passes are available.",
+        "category": "pin_r",
+        "image": "",
+        "visible": true
+    },
+    {
+        "id": "14",
+        "name": "Campus Entry Station 15th & Flint",
+        "lat": "33.582619429218674",
+        "lng": "-101.88101792205602",
+        "abbrev": "",
+        "description": "Western campus entry station. Entering campus by car is prohibited between the hours of 7:30am - 5:30pm on weekdays. Visitor information and passes are available.",
+        "category": "pin_r",
+        "image": "",
+        "visible": true
+    },
+    {
+        "id": "15",
+        "name": "Rec Center",
+        "lat": "33.583038049866566",
+        "lng": "-101.8844842783218",
+        "abbrev": "SRC",
+        "description": "The Robert H. Ewalt Student Recreation Center features a raised jogging track, volleyball/basketball courts and weight room facilities. The climbing, outdoor pursuits and aquatic centers are also found here.",
+        "category": "pin_o",
+        "image": "src/components/images/src.jpg",
+        "visible": true
+    },
+    {
+        "id": "16",
+        "name": "Memorial Circle & Pfluger Fountain",
+        "lat": "33.58446468105697",
+        "lng": "-101.87468789605175",
+        "abbrev": "",
+        "description": "Memorial Circle was dedicated in 1948 to all Texas Tech students who served in World War II. The Pfluger Fountain was added to the center of the circle in 2002.",
+        "category": "pin_o",
+        "image": "src/components/images/memcircle.jpg",
+        "visible": true
+    },
+    {
+        "id": "17",
+        "name": "Park Place",
+        "lat": "33.58404764557962",
+        "lng": "-101.8729173454042",
+        "abbrev": "",
+        "description": "Glenna Goodacre, Park Place, 1997, Bronze",
+        "category": "pin_g",
+        "image": "src/components/images/park-place.jpg",
+        "visible": true
+    },
+    {
+        "id": "18",
+        "name": "Lapstrake",
+        "lat": "33.58600631530552",
+        "lng": "-101.87541111069099",
+        "abbrev": "",
+        "description": "Jesus Moroles, Lapstrake, 2005, Granite",
+        "category": "pin_g",
+        "image": "src/components/images/lapstrake.jpg",
+        "visible": true
+    }
+]
