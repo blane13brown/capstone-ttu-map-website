@@ -16,3 +16,9 @@ A new and improved Texas Tech University map website! New features such as signi
 
 ### Favorite Location
 ![Fav](https://user-images.githubusercontent.com/88754586/210110878-a2a0d4d4-ba71-4bdb-9b9e-847129314b15.PNG)
+
+### Responsive Upper
+![RU](https://user-images.githubusercontent.com/88754586/210110991-7fd40bce-8aa5-44a6-8945-9cc54c7e0558.PNG)
+
+### Responsive Lower
+![RL](https://user-images.githubusercontent.com/88754586/210110994-39ea6628-544b-411b-aa4a-19343062118c.PNG)
